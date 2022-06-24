@@ -1,0 +1,66 @@
+body {
+    margin:0;
+    background-color: #DFF6FF;
+    text-align: center;
+    font-family: lato,sans-serif;
+}
+.navigation-bar{
+    background-color: #47B5FF;
+    position: fixed;
+    top:0px;
+    width:100%;
+    
+}
+.navigation-bar a{
+    padding: 10px;
+    float: left;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+.navigation-bar a:hover{
+    color:white;
+}
+.buttons{
+    margin:0;
+}
+hr{
+    border: 3px solid #06283D;
+}
+#title1{
+    font-family: 'Sacramento',cursive;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    font-size: 5rem;
+}
+#title2{
+    font-size: large;
+    margin-top: 0px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+#skill_2{
+    margin-top:20%;
+}
+.profile{
+    width:25%;
+}
+.laptop{
+    margin-right: 30px;
+    width:40%;
+    float: left;
+}
+.sign{
+    margin-left: 40px;
+    margin-bottom: auto;
+    width: 40%;
+    float:right;
+}
+.bold{
+    font-weight: bolder;
+}

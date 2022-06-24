@@ -1,0 +1,105 @@
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: 'Roboto Mono', monospace;
+}
+p{
+    line-height: 3;
+}
+/*navigation bar start*/
+#bar{
+    background-color: #fcf2d1;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    font-size: large;
+    color: red;
+    text-decoration: none;
+}
+#name{
+    color:black;
+}
+#name:hover{
+    font-size: large;
+    color:red;
+    text-decoration: none;
+}
+/*navigation bar end*/
+
+/*top containter start*/
+#top-container{
+    width: 100%;
+    margin:0%;
+    background-color: #fcf2d1;
+}
+
+h1,h2{
+    font-family: 'Berkshire Swash', cursive;
+}
+#profile{
+    width: 60%;
+    margin-top: 40px;
+}
+#about{
+    margin:auto 0 auto 0;
+}
+/* top container end */
+
+/* mid container start */
+#mid-container{
+    width: 100%;
+    margin: 0%;
+    background-color: #fffdf6;
+    padding: 20px;
+}
+#education, #learning{
+    margin-top: 50px;
+}
+#interests, #skills{
+    margin-top: 50px;
+}
+.icons{
+    margin:0%;
+}
+.icons:hover{
+    font-size: large;
+    font-weight: bold;
+}
+.box{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.star{
+    margin-left: 100px;
+    
+}
+/* mid container end */
+
+
+/*bottom container start */
+
+#bottom-container{
+    width: 100%;
+    margin: 0%;
+    background-color: aliceblue;
+    text-align: center;
+}
+#social-heading{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.socials{
+    color: black;
+}
+.socials:hover{
+    color: black;
+    font-size: larger;
+}
+#social-row{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* bottom container end */

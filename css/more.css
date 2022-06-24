@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #fcf2d1;
+}
+p{
+    line-height: 3;
+}
+/*navigation bar start*/
+#bar{
+    background-color: #fcf2d1;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+#name{
+    color:white;
+}
+#name:hover{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+/*navigation bar end*/
